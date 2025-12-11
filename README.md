@@ -157,7 +157,7 @@ NetBeans IDE Team
 Quick Start Commands
 bash
 # Clone repository
-git clone https://github.com/yourusername/UserManagementSystem.git
+git clone [https://github.com/yourusername/UserManagementSystem.git](https://github.com/Santhoshabi473/User-Verification-Page)
 
 # Import into NetBeans/Eclipse
 # Configure Tomcat server
