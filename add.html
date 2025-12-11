@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Add User</title>
+</head>
+<body>
+    <h2>Add New User</h2>
+    
+    <form action="userlogin" method="post">
+        <input type="hidden" name="action" value="add">
+        
+        User ID: <input type="text" name="id" required><br><br>
+        Username: <input type="text" name="uname" required><br><br>
+        Password: <input type="password" name="pwd" required><br><br>
+        
+        <input type="submit" value="Add User">
+    </form>
+    
+    <br>
+    <a href="index.html">Back to Main Menu</a>
+</body>
+</html>
